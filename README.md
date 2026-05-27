@@ -1,8 +1,3 @@
 # PSXT
 
-Multi-console launcher Android inspirado no PPSSPP.
-
-PS1 + PSP + (futuramente PS2 e Vita)
-
-## Status
-Em desenvolvimento.
+Projeto para criar um emulador de PS2 para Android com interface moderna inspirada no PPSSPP.
